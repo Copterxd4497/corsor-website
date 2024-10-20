@@ -8,7 +8,7 @@ $light: #fbf9f5;
 $body-bg: $light;
 
 //Spacing
-$spacer: 1rem ! default;
+$spacer: 1rem !default;
 $spacers: (
     0: 0,
     1: $spacer * 0.25,
@@ -44,7 +44,7 @@ $btn-padding-x: $button-padding-x;
 $btn-padding-x-lg: $button-padding-x;
 $btn-padding-x-sm: $button-padding-x;
 
-$havbar-toggle-border-radius: 5px;
+$navbar-toggle-border-radius: 5px;
 
 $headings-font-weight: bold;
 
