@@ -21,4 +21,12 @@ $spacers: (
     8: $spacer * 12,
     ) !default;
 
+$headings-margin-bottom: $spacer * 1;
+$line-height-base: 1.7;
+
+//Navbar
+$navbar-nav-link-padding-x: 0.8rem;
+$navbar-padding-y: 1rem;
+$navbar-dark-color: #fff;
+
 @import '../node_modules/bootstrap/scss/bootstrap';
